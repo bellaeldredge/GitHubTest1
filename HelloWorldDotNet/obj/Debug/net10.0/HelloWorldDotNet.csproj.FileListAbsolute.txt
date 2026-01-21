@@ -1,0 +1,15 @@
+/Users/bellaeldredge/Documents/GitHubTest1/HelloWorldDotNet/bin/Debug/net10.0/HelloWorldDotNet
+/Users/bellaeldredge/Documents/GitHubTest1/HelloWorldDotNet/bin/Debug/net10.0/HelloWorldDotNet.deps.json
+/Users/bellaeldredge/Documents/GitHubTest1/HelloWorldDotNet/bin/Debug/net10.0/HelloWorldDotNet.runtimeconfig.json
+/Users/bellaeldredge/Documents/GitHubTest1/HelloWorldDotNet/bin/Debug/net10.0/HelloWorldDotNet.dll
+/Users/bellaeldredge/Documents/GitHubTest1/HelloWorldDotNet/bin/Debug/net10.0/HelloWorldDotNet.pdb
+/Users/bellaeldredge/Documents/GitHubTest1/HelloWorldDotNet/obj/Debug/net10.0/HelloWorldDotNet.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bellaeldredge/Documents/GitHubTest1/HelloWorldDotNet/obj/Debug/net10.0/HelloWorldDotNet.AssemblyInfoInputs.cache
+/Users/bellaeldredge/Documents/GitHubTest1/HelloWorldDotNet/obj/Debug/net10.0/HelloWorldDotNet.AssemblyInfo.cs
+/Users/bellaeldredge/Documents/GitHubTest1/HelloWorldDotNet/obj/Debug/net10.0/HelloWorldDotNet.csproj.CoreCompileInputs.cache
+/Users/bellaeldredge/Documents/GitHubTest1/HelloWorldDotNet/obj/Debug/net10.0/HelloWorldDotNet.sourcelink.json
+/Users/bellaeldredge/Documents/GitHubTest1/HelloWorldDotNet/obj/Debug/net10.0/HelloWorldDotNet.dll
+/Users/bellaeldredge/Documents/GitHubTest1/HelloWorldDotNet/obj/Debug/net10.0/refint/HelloWorldDotNet.dll
+/Users/bellaeldredge/Documents/GitHubTest1/HelloWorldDotNet/obj/Debug/net10.0/HelloWorldDotNet.pdb
+/Users/bellaeldredge/Documents/GitHubTest1/HelloWorldDotNet/obj/Debug/net10.0/HelloWorldDotNet.genruntimeconfig.cache
+/Users/bellaeldredge/Documents/GitHubTest1/HelloWorldDotNet/obj/Debug/net10.0/ref/HelloWorldDotNet.dll
